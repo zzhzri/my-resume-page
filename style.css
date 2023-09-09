@@ -1,0 +1,33 @@
+body {
+   font-family: 'Poppins', sans-serif;
+   background-color: #040F16;
+   color: white;
+   background-image: url("zhungli.jpg");
+   background-repeat: reapeat-y;
+ }
+
+h2 {
+        color : #F87575;
+        text-decoration: underline;
+}
+
+
+.main-title {
+  color: blueviolet;
+}
+
+p { font-size: 30px; 
+    font-weight: bold;
+    text-align : center;
+    letter-spacing: 2px;
+}
+
+li { font-size: 20px;
+     font-weight: bold;
+     line-height: 3;
+ }
+
+ .abcdef {
+  text-align: center;
+  font-weight: bold;
+ }
